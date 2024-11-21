@@ -6,6 +6,7 @@ members = [
     "phase3",
     "phase4",
     "phase5",
+    "ibcratelimits",
 ]
 
 default-members = [
@@ -13,6 +14,7 @@ default-members = [
     "phase3",
     "phase4",
     "phase5",
+    "ibcratelimits",
 ]
 
 [workspace.package]
